@@ -1,0 +1,25 @@
+# Project Title
+
+## Overview
+Brief description of the project.  
+(Example: This project performs exploratory data analysis on the Titanic dataset to find survival patterns.)
+
+## Files
+- `notebook.ipynb` → main analysis code
+- `dataset.csv` → dataset used (if small and included)
+- `results.png` → charts or results (optional)
+
+## Tools & Libraries
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
+## How to Run
+1. Clone the repo  
+2. Open Jupyter Notebook / VS Code  
+3. Run the cells step by step  
+
+## Sample Output
+- Accuracy score: 95% (for ML projects)  
+- Chart of age vs survival (for EDA projects)  
+
+## Acknowledgement
+Dataset source: Kaggle

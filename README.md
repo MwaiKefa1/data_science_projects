@@ -29,7 +29,7 @@ Each folder contains a self-contained project with code, dataset (if small), and
 
 ---
 
-## 🛠Tools & Libraries
+## Tools & Libraries
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - SQL (SQLite)
 - Jupyter Notebook
